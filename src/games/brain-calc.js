@@ -11,10 +11,10 @@ const getCalcTheGame = () => {
   const randomOp = randomNumberOfThree;
   let question;
   let answer;
-  if (randomOp === '1') {
+  if (randomOp === 1) {
     question = `${firstOperand} - ${secondOperand}`;
     answer = firstOperand - secondOperand;
-  } else if (randomOp === '2') {
+  } else if (randomOp === 2) {
     question = `${firstOperand} * ${secondOperand}`;
     answer = firstOperand * secondOperand;
   } else {
