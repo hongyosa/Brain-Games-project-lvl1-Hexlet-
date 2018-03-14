@@ -10,7 +10,7 @@ npm install -g hongy-braingames
 ```
 ## Launch
 ```bash
-choose one of the following commands to run the game:
+Сhoose one of the following commands to run the game:
 
 - `brain-even` - Answer "yes" if given number even otherwise answer "no".
 - `brain-calc` - What is the result of the expression of given numbers?
