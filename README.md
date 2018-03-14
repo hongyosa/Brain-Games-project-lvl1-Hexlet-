@@ -4,11 +4,11 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
-# Install
+## Install
 ```bash
 npm install -g hongy-braingames
 ```
-# Launch
+## Launch
 ```bash
 choose one of the following commands to run the game:
 
